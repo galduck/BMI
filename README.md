@@ -7,5 +7,7 @@
 ![image](https://user-images.githubusercontent.com/92987632/147997156-43bebca2-a30f-42a5-ad9e-aacb6062a0ee.png)
 
 키, 체중, 성별, 혈액형, 습관을 입력하면
+
 혈액형, 성별, 신체질량지수(BMI)를 결과로 보여주고
+
 개선해야할 사항은 그림으로 나타냄
